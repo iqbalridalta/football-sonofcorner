@@ -1,0 +1,773 @@
+,match_id,date,referee,variable,value,venue,team_id,team_name
+0,3597749,2021-07-25 07:00:00,Aydin Uslu,fouls_for,15,H,10202,Nordsjælland
+1,3597749,2021-07-25 07:00:00,Aydin Uslu,fouls_ag,14,H,10202,Nordsjælland
+2,3597742,2021-07-18 07:00:00,Morten Krogh,fouls_for,12,H,10202,Nordsjælland
+3,3597742,2021-07-18 07:00:00,Morten Krogh,fouls_ag,21,H,10202,Nordsjælland
+4,3597744,2021-07-18 09:00:00,Mads-Kristoffer Kristoffersen,fouls_for,8,H,8391,FC København
+5,3597744,2021-07-18 09:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,16,H,8391,FC København
+6,3597743,2021-07-18 07:00:00,Jonas Hansen,fouls_for,10,H,8231,Vejle Boldklub
+7,3597743,2021-07-18 07:00:00,Jonas Hansen,fouls_ag,19,H,8231,Vejle Boldklub
+8,3597741,2021-07-16 12:00:00,Sandi Putros,fouls_for,10,H,8113,Midtjylland
+9,3597741,2021-07-16 12:00:00,Sandi Putros,fouls_ag,20,H,8113,Midtjylland
+10,3597750,2021-07-25 07:00:00,Jakob Sundberg,fouls_for,15,H,8410,Randers FC
+11,3597750,2021-07-25 07:00:00,Jakob Sundberg,fouls_ag,12,H,8410,Randers FC
+12,3597745,2021-07-18 12:00:00,Jens Grabski Maae,fouls_for,10,H,8071,AGF Aarhus
+13,3597745,2021-07-18 12:00:00,Jens Grabski Maae,fouls_ag,15,H,8071,AGF Aarhus
+14,3597752,2021-07-25 11:00:00,Joergen Daugbjerg Burchardt,fouls_for,9,H,8595,Brøndby IF
+15,3597752,2021-07-25 11:00:00,Joergen Daugbjerg Burchardt,fouls_ag,9,H,8595,Brøndby IF
+16,3597746,2021-07-19 12:00:00,Mikkel Redder,fouls_for,8,H,8415,Silkeborg
+17,3597746,2021-07-19 12:00:00,Mikkel Redder,fouls_ag,4,H,8415,Silkeborg
+18,3597748,2021-07-24 11:00:00,Jakob Kehlet,fouls_for,16,H,8470,Aalborg BK
+19,3597748,2021-07-24 11:00:00,Jakob Kehlet,fouls_ag,6,H,8470,Aalborg BK
+20,3597759,2021-08-01 07:00:00,Sandi Putros,fouls_for,9,H,8415,Silkeborg
+21,3597759,2021-08-01 07:00:00,Sandi Putros,fouls_ag,11,H,8415,Silkeborg
+22,3597751,2021-07-25 09:00:00,Peter Kjaersgaard,fouls_for,6,H,8391,FC København
+23,3597751,2021-07-25 09:00:00,Peter Kjaersgaard,fouls_ag,9,H,8391,FC København
+24,3597753,2021-07-26 12:00:00,Michael Tykgaard,fouls_for,11,H,8487,SønderjyskE
+25,3597753,2021-07-26 12:00:00,Michael Tykgaard,fouls_ag,16,H,8487,SønderjyskE
+26,3597758,2021-08-02 12:00:00,Jens Grabski Maae,fouls_for,8,H,8487,SønderjyskE
+27,3597758,2021-08-02 12:00:00,Jens Grabski Maae,fouls_ag,14,H,8487,SønderjyskE
+28,3597757,2021-07-31 09:00:00,Anders Poulsen,fouls_for,6,H,9939,Viborg
+29,3597757,2021-07-31 09:00:00,Anders Poulsen,fouls_ag,8,H,9939,Viborg
+30,3597754,2021-08-01 07:00:00,Mads-Kristoffer Kristoffersen,fouls_for,13,H,8071,AGF Aarhus
+31,3597754,2021-08-01 07:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,13,H,8071,AGF Aarhus
+32,3597756,2021-08-01 09:00:00,Jakob Sundberg,fouls_for,6,H,8231,Vejle Boldklub
+33,3597756,2021-08-01 09:00:00,Jakob Sundberg,fouls_ag,13,H,8231,Vejle Boldklub
+34,3597755,2021-08-01 11:00:00,Jakob Kehlet,fouls_for,11,H,8414,Odense
+35,3597755,2021-08-01 11:00:00,Jakob Kehlet,fouls_ag,5,H,8414,Odense
+36,3597760,2021-08-06 13:30:00,Mikkel Redder,fouls_for,15,H,8113,Midtjylland
+37,3597760,2021-08-06 13:30:00,Mikkel Redder,fouls_ag,8,H,8113,Midtjylland
+38,3597765,2021-08-06 11:30:00,Jens Grabski Maae,fouls_for,9,H,8415,Silkeborg
+39,3597765,2021-08-06 11:30:00,Jens Grabski Maae,fouls_ag,13,H,8415,Silkeborg
+40,3597771,2021-08-13 10:30:00,Morten Krogh,fouls_for,9,H,8487,SønderjyskE
+41,3597771,2021-08-13 10:30:00,Morten Krogh,fouls_ag,12,H,8487,SønderjyskE
+42,3597762,2021-08-08 11:00:00,Joergen Daugbjerg Burchardt,fouls_for,24,H,8470,Aalborg BK
+43,3597762,2021-08-08 11:00:00,Joergen Daugbjerg Burchardt,fouls_ag,14,H,8470,Aalborg BK
+44,3597769,2021-08-16 12:00:00,Jakob Kehlet,fouls_for,8,H,8231,Vejle Boldklub
+45,3597769,2021-08-16 12:00:00,Jakob Kehlet,fouls_ag,13,H,8231,Vejle Boldklub
+46,3597761,2021-08-08 09:00:00,Mads-Kristoffer Kristoffersen,fouls_for,10,H,8391,FC København
+47,3597761,2021-08-08 09:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,8,H,8391,FC København
+48,3597764,2021-08-08 07:00:00,Michael Tykgaard,fouls_for,5,H,8410,Randers FC
+49,3597764,2021-08-08 07:00:00,Michael Tykgaard,fouls_ag,9,H,8410,Randers FC
+50,3597763,2021-08-09 12:00:00,Sandi Putros,fouls_for,11,H,10202,Nordsjælland
+51,3597763,2021-08-09 12:00:00,Sandi Putros,fouls_ag,10,H,10202,Nordsjælland
+52,3597772,2021-08-20 12:00:00,Mads-Kristoffer Kristoffersen,fouls_for,5,H,8113,Midtjylland
+53,3597772,2021-08-20 12:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,5,H,8113,Midtjylland
+54,3597770,2021-08-13 12:15:00,Aydin Uslu,fouls_for,7,H,9939,Viborg
+55,3597770,2021-08-13 12:15:00,Aydin Uslu,fouls_ag,7,H,9939,Viborg
+56,3597766,2021-08-13 14:00:00,Peter Kjaersgaard,fouls_for,7,H,8595,Brøndby IF
+57,3597766,2021-08-13 14:00:00,Peter Kjaersgaard,fouls_ag,15,H,8595,Brøndby IF
+58,3597768,2021-08-15 09:00:00,Jonas Hansen,fouls_for,6,H,8414,Odense
+59,3597768,2021-08-15 09:00:00,Jonas Hansen,fouls_ag,13,H,8414,Odense
+60,3597767,2021-08-15 11:00:00,Jakob Sundberg,fouls_for,10,H,8071,AGF Aarhus
+61,3597767,2021-08-15 11:00:00,Jakob Sundberg,fouls_ag,15,H,8071,AGF Aarhus
+62,3597780,2021-08-27 12:00:00,Aydin Uslu,fouls_for,14,H,8470,Aalborg BK
+63,3597780,2021-08-27 12:00:00,Aydin Uslu,fouls_ag,12,H,8470,Aalborg BK
+64,3597774,2021-08-21 11:00:00,Joergen Daugbjerg Burchardt,fouls_for,10,H,8414,Odense
+65,3597774,2021-08-21 11:00:00,Joergen Daugbjerg Burchardt,fouls_ag,8,H,8414,Odense
+66,3597775,2021-08-23 12:05:00,Anders Poulsen,fouls_for,11,H,10202,Nordsjælland
+67,3597775,2021-08-23 12:05:00,Anders Poulsen,fouls_ag,12,H,10202,Nordsjælland
+68,3597776,2021-08-22 11:00:00,Michael Tykgaard,fouls_for,16,H,9939,Viborg
+69,3597776,2021-08-22 11:00:00,Michael Tykgaard,fouls_ag,15,H,9939,Viborg
+70,3597783,2021-08-29 07:00:00,Jakob Kehlet,fouls_for,4,H,8415,Silkeborg
+71,3597783,2021-08-29 07:00:00,Jakob Kehlet,fouls_ag,3,H,8415,Silkeborg
+72,3597777,2021-08-22 07:10:00,Mikkel Redder,fouls_for,13,H,8410,Randers FC
+73,3597777,2021-08-22 07:10:00,Mikkel Redder,fouls_ag,9,H,8410,Randers FC
+74,3597781,2021-08-29 09:00:00,Jonas Hansen,fouls_for,10,H,8231,Vejle Boldklub
+75,3597781,2021-08-29 09:00:00,Jonas Hansen,fouls_ag,9,H,8231,Vejle Boldklub
+76,3597773,2021-08-22 09:00:00,Peter Kjaersgaard,fouls_for,6,H,8391,FC København
+77,3597773,2021-08-22 09:00:00,Peter Kjaersgaard,fouls_ag,13,H,8391,FC København
+78,3597782,2021-08-29 07:00:00,Jens Grabski Maae,fouls_for,6,H,8487,SønderjyskE
+79,3597782,2021-08-29 07:00:00,Jens Grabski Maae,fouls_ag,21,H,8487,SønderjyskE
+80,3597784,2021-09-10 13:00:00,Mads-Kristoffer Kristoffersen,fouls_for,6,H,8595,Brøndby IF
+81,3597784,2021-09-10 13:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,6,H,8595,Brøndby IF
+82,3597788,2021-09-12 07:00:00,Peter Kjaersgaard,fouls_for,9,H,9939,Viborg
+83,3597788,2021-09-12 07:00:00,Peter Kjaersgaard,fouls_ag,7,H,9939,Viborg
+84,3597785,2021-09-10 11:00:00,Mikkel Redder,fouls_for,11,H,8113,Midtjylland
+85,3597785,2021-09-10 11:00:00,Mikkel Redder,fouls_ag,15,H,8113,Midtjylland
+86,3597779,2021-08-29 11:00:00,Morten Krogh,fouls_for,16,H,8071,AGF Aarhus
+87,3597779,2021-08-29 11:00:00,Morten Krogh,fouls_ag,19,H,8071,AGF Aarhus
+88,3597778,2021-08-29 13:00:00,Sandi Putros,fouls_for,12,H,8595,Brøndby IF
+89,3597778,2021-08-29 13:00:00,Sandi Putros,fouls_ag,13,H,8595,Brøndby IF
+90,3597787,2021-09-13 12:00:00,Anders Poulsen,fouls_for,9,H,8414,Odense
+91,3597787,2021-09-13 12:00:00,Anders Poulsen,fouls_ag,10,H,8414,Odense
+92,3597786,2021-09-12 11:00:00,Michael Tykgaard,fouls_for,12,H,8071,AGF Aarhus
+93,3597786,2021-09-12 11:00:00,Michael Tykgaard,fouls_ag,15,H,8071,AGF Aarhus
+94,3597789,2021-09-12 09:00:00,Sandi Putros,fouls_for,11,H,8410,Randers FC
+95,3597789,2021-09-12 09:00:00,Sandi Putros,fouls_ag,7,H,8410,Randers FC
+96,3597791,2021-09-17 12:00:00,Jens Grabski Maae,fouls_for,15,H,8470,Aalborg BK
+97,3597791,2021-09-17 12:00:00,Jens Grabski Maae,fouls_ag,8,H,8470,Aalborg BK
+98,3597795,2021-09-20 12:00:00,Joergen Daugbjerg Burchardt,fouls_for,9,H,8415,Silkeborg
+99,3597795,2021-09-20 12:00:00,Joergen Daugbjerg Burchardt,fouls_ag,22,H,8415,Silkeborg
+100,3597798,2021-09-27 12:00:00,Jonas Hansen,fouls_for,16,H,8071,AGF Aarhus
+101,3597798,2021-09-27 12:00:00,Jonas Hansen,fouls_ag,14,H,8071,AGF Aarhus
+102,3597801,2021-09-26 07:00:00,Jakob Kehlet,fouls_for,13,H,9939,Viborg
+103,3597801,2021-09-26 07:00:00,Jakob Kehlet,fouls_ag,8,H,9939,Viborg
+104,3597797,2021-09-26 07:00:00,Joergen Daugbjerg Burchardt,fouls_for,11,H,8113,Midtjylland
+105,3597797,2021-09-26 07:00:00,Joergen Daugbjerg Burchardt,fouls_ag,16,H,8113,Midtjylland
+106,3597796,2021-09-26 11:00:00,Sandi Putros,fouls_for,4,H,8595,Brøndby IF
+107,3597796,2021-09-26 11:00:00,Sandi Putros,fouls_ag,10,H,8595,Brøndby IF
+108,3597794,2021-09-19 09:00:00,Morten Krogh,fouls_for,13,H,8487,SønderjyskE
+109,3597794,2021-09-19 09:00:00,Morten Krogh,fouls_ag,10,H,8487,SønderjyskE
+110,3597793,2021-09-19 07:00:00,Jakob Sundberg,fouls_for,14,H,8410,Randers FC
+111,3597793,2021-09-19 07:00:00,Jakob Sundberg,fouls_ag,8,H,8410,Randers FC
+112,3597792,2021-09-19 07:00:00,Aydin Uslu,fouls_for,5,H,8231,Vejle Boldklub
+113,3597792,2021-09-19 07:00:00,Aydin Uslu,fouls_ag,14,H,8231,Vejle Boldklub
+114,3597807,2021-10-03 07:00:00,Anders Poulsen,fouls_for,7,H,8415,Silkeborg
+115,3597807,2021-10-03 07:00:00,Anders Poulsen,fouls_ag,9,H,8415,Silkeborg
+116,3597790,2021-09-19 11:00:00,Jakob Kehlet,fouls_for,16,H,8391,FC København
+117,3597790,2021-09-19 11:00:00,Jakob Kehlet,fouls_ag,9,H,8391,FC København
+118,3597799,2021-09-26 09:00:00,Mads-Kristoffer Kristoffersen,fouls_for,7,H,10202,Nordsjælland
+119,3597799,2021-09-26 09:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,12,H,10202,Nordsjælland
+120,3597800,2021-09-26 13:00:00,Mikkel Redder,fouls_for,9,H,8231,Vejle Boldklub
+121,3597800,2021-09-26 13:00:00,Mikkel Redder,fouls_ag,6,H,8231,Vejle Boldklub
+122,3597805,2021-10-01 12:00:00,Jakob Sundberg,fouls_for,13,H,8414,Odense
+123,3597805,2021-10-01 12:00:00,Jakob Sundberg,fouls_ag,11,H,8414,Odense
+124,3597804,2021-10-03 07:00:00,Mikkel Redder,fouls_for,13,H,8470,Aalborg BK
+125,3597804,2021-10-03 07:00:00,Mikkel Redder,fouls_ag,8,H,8470,Aalborg BK
+126,3597803,2021-10-03 13:00:00,Morten Krogh,fouls_for,5,H,8391,FC København
+127,3597803,2021-10-03 13:00:00,Morten Krogh,fouls_ag,13,H,8391,FC København
+128,3597817,2021-10-22 12:00:00,Jonas Hansen,fouls_for,11,H,8231,Vejle Boldklub
+129,3597817,2021-10-22 12:00:00,Jonas Hansen,fouls_ag,11,H,8231,Vejle Boldklub
+130,3597802,2021-10-03 09:00:00,Sandi Putros,fouls_for,9,H,8113,Midtjylland
+131,3597802,2021-10-03 09:00:00,Sandi Putros,fouls_ag,13,H,8113,Midtjylland
+132,3597806,2021-10-03 11:00:00,Jens Grabski Maae,fouls_for,11,H,8410,Randers FC
+133,3597806,2021-10-03 11:00:00,Jens Grabski Maae,fouls_ag,10,H,8410,Randers FC
+134,3597812,2021-10-15 12:00:00,Peter Kjaersgaard,fouls_for,9,H,9939,Viborg
+135,3597812,2021-10-15 12:00:00,Peter Kjaersgaard,fouls_ag,8,H,9939,Viborg
+136,3597809,2021-10-18 12:10:00,Jakob Sundberg,fouls_for,14,H,8071,AGF Aarhus
+137,3597809,2021-10-18 12:10:00,Jakob Sundberg,fouls_ag,15,H,8071,AGF Aarhus
+138,3597808,2021-10-17 09:00:00,Mads-Kristoffer Kristoffersen,fouls_for,6,H,8595,Brøndby IF
+139,3597808,2021-10-17 09:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,9,H,8595,Brøndby IF
+140,3597813,2021-10-17 11:00:00,Joergen Daugbjerg Burchardt,fouls_for,9,H,8487,SønderjyskE
+141,3597813,2021-10-17 11:00:00,Joergen Daugbjerg Burchardt,fouls_ag,13,H,8487,SønderjyskE
+142,3597810,2021-10-17 07:00:00,Aydin Uslu,fouls_for,6,H,8414,Odense
+143,3597810,2021-10-17 07:00:00,Aydin Uslu,fouls_ag,12,H,8414,Odense
+144,3597816,2021-10-25 12:00:00,Michael Tykgaard,fouls_for,6,H,8470,Aalborg BK
+145,3597816,2021-10-25 12:00:00,Michael Tykgaard,fouls_ag,15,H,8470,Aalborg BK
+146,3597811,2021-10-17 06:00:00,Jens Grabski Maae,fouls_for,9,H,10202,Nordsjælland
+147,3597811,2021-10-17 06:00:00,Jens Grabski Maae,fouls_ag,8,H,10202,Nordsjælland
+148,3597818,2021-10-24 09:00:00,Morten Krogh,fouls_for,10,H,8410,Randers FC
+149,3597818,2021-10-24 09:00:00,Morten Krogh,fouls_ag,15,H,8410,Randers FC
+150,3597814,2021-10-24 07:00:00,Peter Kjaersgaard,fouls_for,9,H,8595,Brøndby IF
+151,3597814,2021-10-24 07:00:00,Peter Kjaersgaard,fouls_ag,10,H,8595,Brøndby IF
+152,3597821,2021-11-01 12:00:00,Mikkel Redder,fouls_for,12,H,8414,Odense
+153,3597821,2021-11-01 12:00:00,Mikkel Redder,fouls_ag,10,H,8414,Odense
+154,3597822,2021-10-31 07:00:00,Anders Poulsen,fouls_for,8,H,10202,Nordsjælland
+155,3597822,2021-10-31 07:00:00,Anders Poulsen,fouls_ag,5,H,10202,Nordsjælland
+156,3597824,2021-10-31 07:00:00,Jakob Sundberg,fouls_for,15,H,8410,Randers FC
+157,3597824,2021-10-31 07:00:00,Jakob Sundberg,fouls_ag,10,H,8410,Randers FC
+158,3597823,2021-10-31 11:00:00,Joergen Daugbjerg Burchardt,fouls_for,15,H,9939,Viborg
+159,3597823,2021-10-31 11:00:00,Joergen Daugbjerg Burchardt,fouls_ag,11,H,9939,Viborg
+160,3597825,2021-10-31 13:00:00,Jens Grabski Maae,fouls_for,9,H,8487,SønderjyskE
+161,3597825,2021-10-31 13:00:00,Jens Grabski Maae,fouls_ag,6,H,8487,SønderjyskE
+162,3597819,2021-10-24 07:00:00,Sandi Putros,fouls_for,10,H,8415,Silkeborg
+163,3597819,2021-10-24 07:00:00,Sandi Putros,fouls_ag,8,H,8415,Silkeborg
+164,3597815,2021-10-24 11:00:00,Jakob Kehlet,fouls_for,13,H,8113,Midtjylland
+165,3597815,2021-10-24 11:00:00,Jakob Kehlet,fouls_ag,13,H,8113,Midtjylland
+166,3597830,2021-11-05 12:00:00,Peter Kjaersgaard,fouls_for,11,H,9939,Viborg
+167,3597830,2021-11-05 12:00:00,Peter Kjaersgaard,fouls_ag,11,H,9939,Viborg
+168,3597828,2021-11-07 07:00:00,Jonas Hansen,fouls_for,10,H,8470,Aalborg BK
+169,3597828,2021-11-07 07:00:00,Jonas Hansen,fouls_ag,12,H,8470,Aalborg BK
+170,3597820,2021-10-31 09:00:00,Aydin Uslu,fouls_for,13,H,8391,FC København
+171,3597820,2021-10-31 09:00:00,Aydin Uslu,fouls_ag,10,H,8391,FC København
+172,3597827,2021-11-07 09:00:00,Sandi Putros,fouls_for,25,H,8071,AGF Aarhus
+173,3597827,2021-11-07 09:00:00,Sandi Putros,fouls_ag,11,H,8071,AGF Aarhus
+174,3597834,2021-11-19 12:00:00,Jakob Sundberg,fouls_for,14,H,8414,Odense
+175,3597834,2021-11-19 12:00:00,Jakob Sundberg,fouls_ag,21,H,8414,Odense
+176,3597875,2021-11-22 12:00:00,Peter Kjaersgaard,fouls_for,10,H,8487,SønderjyskE
+177,3597875,2021-11-22 12:00:00,Peter Kjaersgaard,fouls_ag,11,H,8487,SønderjyskE
+178,3597835,2021-11-21 07:00:00,Sandi Putros,fouls_for,16,H,10202,Nordsjælland
+179,3597835,2021-11-21 07:00:00,Sandi Putros,fouls_ag,10,H,10202,Nordsjælland
+180,3597829,2021-11-07 07:00:00,Morten Krogh,fouls_for,15,H,8231,Vejle Boldklub
+181,3597829,2021-11-07 07:00:00,Morten Krogh,fouls_ag,16,H,8231,Vejle Boldklub
+182,3597831,2021-11-07 13:00:00,Mads-Kristoffer Kristoffersen,fouls_for,5,H,8415,Silkeborg
+183,3597831,2021-11-07 13:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,12,H,8415,Silkeborg
+184,3597826,2021-11-07 11:00:00,Jakob Kehlet,fouls_for,13,H,8595,Brøndby IF
+185,3597826,2021-11-07 11:00:00,Jakob Kehlet,fouls_ag,9,H,8595,Brøndby IF
+186,3597874,2021-11-21 07:00:00,Jens Grabski Maae,fouls_for,14,H,8410,Randers FC
+187,3597874,2021-11-21 07:00:00,Jens Grabski Maae,fouls_ag,10,H,8410,Randers FC
+188,3597833,2021-11-21 09:00:00,Joergen Daugbjerg Burchardt,fouls_for,15,H,8391,FC København
+189,3597833,2021-11-21 09:00:00,Joergen Daugbjerg Burchardt,fouls_ag,17,H,8391,FC København
+190,3597832,2021-11-21 11:00:00,Morten Krogh,fouls_for,15,H,8113,Midtjylland
+191,3597832,2021-11-21 11:00:00,Morten Krogh,fouls_ag,13,H,8113,Midtjylland
+192,3597839,2021-11-26 12:00:00,Aydin Uslu,fouls_for,4,H,8071,AGF Aarhus
+193,3597839,2021-11-26 12:00:00,Aydin Uslu,fouls_ag,8,H,8071,AGF Aarhus
+194,3597843,2021-11-28 07:00:00,Anders Poulsen,fouls_for,16,H,9939,Viborg
+195,3597843,2021-11-28 07:00:00,Anders Poulsen,fouls_ag,10,H,9939,Viborg
+196,3597847,2022-02-21 12:00:00,Jakob Kehlet,fouls_for,9,H,8410,Randers FC
+197,3597847,2022-02-21 12:00:00,Jakob Kehlet,fouls_ag,10,H,8410,Randers FC
+198,3597844,2022-02-20 07:00:00,Morten Krogh,fouls_for,17,H,8113,Midtjylland
+199,3597844,2022-02-20 07:00:00,Morten Krogh,fouls_ag,13,H,8113,Midtjylland
+200,3597848,2022-02-18 12:00:00,Mads-Kristoffer Kristoffersen,fouls_for,16,H,8487,SønderjyskE
+201,3597848,2022-02-18 12:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,10,H,8487,SønderjyskE
+202,3597849,2022-02-20 07:00:00,Jonas Hansen,fouls_for,9,H,8415,Silkeborg
+203,3597849,2022-02-20 07:00:00,Jonas Hansen,fouls_ag,10,H,8415,Silkeborg
+204,3597842,2021-11-29 12:00:00,Mads-Kristoffer Kristoffersen,fouls_for,9,H,8231,Vejle Boldklub
+205,3597842,2021-11-29 12:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,12,H,8231,Vejle Boldklub
+206,3597846,2022-02-20 09:00:00,Jens Maae,fouls_for,10,H,10202,Nordsjælland
+207,3597846,2022-02-20 09:00:00,Jens Maae,fouls_ag,7,H,10202,Nordsjælland
+208,3597845,2022-02-20 11:00:00,Sandi Putros,fouls_for,6,H,8391,FC København
+209,3597845,2022-02-20 11:00:00,Sandi Putros,fouls_ag,11,H,8391,FC København
+210,3597841,2021-11-28 07:00:00,Michael Tykgaard,fouls_for,7,H,8414,Odense
+211,3597841,2021-11-28 07:00:00,Michael Tykgaard,fouls_ag,7,H,8414,Odense
+212,3597838,2021-11-28 09:00:00,Mikkel Redder,fouls_for,7,H,8595,Brøndby IF
+213,3597838,2021-11-28 09:00:00,Mikkel Redder,fouls_ag,12,H,8595,Brøndby IF
+214,3597840,2021-11-28 11:00:00,Jakob Kehlet,fouls_for,10,H,8470,Aalborg BK
+215,3597840,2021-11-28 11:00:00,Jakob Kehlet,fouls_ag,15,H,8470,Aalborg BK
+216,3597855,2022-02-27 09:00:00,Jakob Kehlet,fouls_for,4,H,9939,Viborg
+217,3597855,2022-02-27 09:00:00,Jakob Kehlet,fouls_ag,7,H,9939,Viborg
+218,3597856,2022-03-04 11:00:00,Jens Maae,fouls_for,8,H,8113,Midtjylland
+219,3597856,2022-03-04 11:00:00,Jens Maae,fouls_ag,15,H,8113,Midtjylland
+220,3597858,2022-03-04 13:00:00,Morten Krogh,fouls_for,6,H,8391,FC København
+221,3597858,2022-03-04 13:00:00,Morten Krogh,fouls_ag,6,H,8391,FC København
+222,3597854,2022-02-25 12:00:00,Jakob A. Sundberg,fouls_for,17,H,8231,Vejle Boldklub
+223,3597854,2022-02-25 12:00:00,Jakob A. Sundberg,fouls_ag,17,H,8231,Vejle Boldklub
+224,3597850,2022-02-28 12:00:00,Peter Kjærsgaard-Andersen,fouls_for,14,H,8595,Brøndby IF
+225,3597850,2022-02-28 12:00:00,Peter Kjærsgaard-Andersen,fouls_ag,10,H,8595,Brøndby IF
+226,3597861,2022-03-06 11:00:00,Jakob Kehlet,fouls_for,3,H,8415,Silkeborg
+227,3597861,2022-03-06 11:00:00,Jakob Kehlet,fouls_ag,5,H,8415,Silkeborg
+228,3597859,2022-03-06 09:00:00,Sandi Putros,fouls_for,15,H,8470,Aalborg BK
+229,3597859,2022-03-06 09:00:00,Sandi Putros,fouls_ag,13,H,8470,Aalborg BK
+230,3597851,2022-02-27 07:00:00,Mikkel Redder,fouls_for,11,H,8470,Aalborg BK
+231,3597851,2022-02-27 07:00:00,Mikkel Redder,fouls_ag,12,H,8470,Aalborg BK
+232,3597853,2022-02-27 07:00:00,Aydin Uslu,fouls_for,13,H,10202,Nordsjælland
+233,3597853,2022-02-27 07:00:00,Aydin Uslu,fouls_ag,7,H,10202,Nordsjælland
+234,3597857,2022-03-07 12:00:00,Jørgen Daugbjerg Burchardt,fouls_for,10,H,8071,AGF Aarhus
+235,3597857,2022-03-07 12:00:00,Jørgen Daugbjerg Burchardt,fouls_ag,6,H,8071,AGF Aarhus
+236,3597852,2022-02-27 11:00:00,Jørgen Daugbjerg Burchardt,fouls_for,19,H,8414,Odense
+237,3597852,2022-02-27 11:00:00,Jørgen Daugbjerg Burchardt,fouls_ag,11,H,8414,Odense
+238,3597865,2022-03-11 12:00:00,Jonas Hansen,fouls_for,11,H,10202,Nordsjælland
+239,3597865,2022-03-11 12:00:00,Jonas Hansen,fouls_ag,5,H,10202,Nordsjælland
+240,3597860,2022-03-06 07:00:00,Anders Poulsen,fouls_for,16,H,8487,SønderjyskE
+241,3597860,2022-03-06 07:00:00,Anders Poulsen,fouls_ag,9,H,8487,SønderjyskE
+242,3597863,2022-03-13 11:00:00,Mads-Kristoffer Kristoffersen,fouls_for,7,H,8113,Midtjylland
+243,3597863,2022-03-13 11:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,10,H,8113,Midtjylland
+244,3597864,2022-03-14 12:00:00,Jakob A. Sundberg,fouls_for,7,H,8414,Odense
+245,3597864,2022-03-14 12:00:00,Jakob A. Sundberg,fouls_ag,13,H,8414,Odense
+246,3597867,2022-03-13 07:00:00,Michael Tykgaard,fouls_for,5,H,8410,Randers FC
+247,3597867,2022-03-13 07:00:00,Michael Tykgaard,fouls_ag,6,H,8410,Randers FC
+248,3597868,2022-03-20 07:30:00,Peter Kjærsgaard-Andersen,fouls_for,17,H,8071,AGF Aarhus
+249,3597868,2022-03-20 07:30:00,Peter Kjærsgaard-Andersen,fouls_ag,13,H,8071,AGF Aarhus
+250,3597870,2022-03-20 07:30:00,Jens Maae,fouls_for,12,H,8470,Aalborg BK
+251,3597870,2022-03-20 07:30:00,Jens Maae,fouls_ag,16,H,8470,Aalborg BK
+252,3597866,2022-03-13 07:00:00,Anders Poulsen,fouls_for,15,H,9939,Viborg
+253,3597866,2022-03-13 07:00:00,Anders Poulsen,fouls_ag,12,H,9939,Viborg
+254,3597862,2022-03-13 09:00:00,Morten Krogh,fouls_for,12,H,8595,Brøndby IF
+255,3597862,2022-03-13 09:00:00,Morten Krogh,fouls_ag,10,H,8595,Brøndby IF
+256,3597871,2022-03-20 07:30:00,Morten Krogh,fouls_for,10,H,8231,Vejle Boldklub
+257,3597871,2022-03-20 07:30:00,Morten Krogh,fouls_ag,13,H,8231,Vejle Boldklub
+258,3597873,2022-03-20 07:30:00,Sandi Putros,fouls_for,9,H,8415,Silkeborg
+259,3597873,2022-03-20 07:30:00,Sandi Putros,fouls_ag,9,H,8415,Silkeborg
+260,3597869,2022-03-20 07:30:00,Jakob Kehlet,fouls_for,9,H,8391,FC København
+261,3597869,2022-03-20 07:30:00,Jakob Kehlet,fouls_ag,9,H,8391,FC København
+262,3597872,2022-03-20 07:30:00,Mikkel Redder,fouls_for,13,H,8487,SønderjyskE
+263,3597872,2022-03-20 07:30:00,Mikkel Redder,fouls_ag,10,H,8487,SønderjyskE
+264,3847492,2022-04-03 07:00:00,Mads-Kristoffer Kristoffersen,fouls_for,14,H,8414,Odense
+265,3847492,2022-04-03 07:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,12,H,8414,Odense
+266,3847489,2022-04-03 09:00:00,Aydin Uslu,fouls_for,12,H,8595,Brøndby IF
+267,3847489,2022-04-03 09:00:00,Aydin Uslu,fouls_ag,12,H,8595,Brøndby IF
+268,3847493,2022-04-01 11:00:00,Jørgen Daugbjerg Burchardt,fouls_for,12,H,9939,Viborg
+269,3847493,2022-04-01 11:00:00,Jørgen Daugbjerg Burchardt,fouls_ag,11,H,9939,Viborg
+270,3847488,2022-04-04 12:00:00,Jonas Hansen,fouls_for,7,H,8113,Midtjylland
+271,3847488,2022-04-04 12:00:00,Jonas Hansen,fouls_ag,3,H,8113,Midtjylland
+272,3847491,2022-04-03 07:00:00,Anders Poulsen,fouls_for,14,H,8071,AGF Aarhus
+273,3847491,2022-04-03 07:00:00,Anders Poulsen,fouls_ag,12,H,8071,AGF Aarhus
+274,3847487,2022-04-03 11:00:00,Michael Tykgaard,fouls_for,18,H,8470,Aalborg BK
+275,3847487,2022-04-03 11:00:00,Michael Tykgaard,fouls_ag,10,H,8470,Aalborg BK
+276,3847496,2022-04-11 12:00:00,Mads-Kristoffer Kristoffersen,fouls_for,17,H,8231,Vejle Boldklub
+277,3847496,2022-04-11 12:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,10,H,8231,Vejle Boldklub
+278,3847500,2022-04-13 11:30:00,Morten Krogh,fouls_for,7,H,8410,Randers FC
+279,3847500,2022-04-13 11:30:00,Morten Krogh,fouls_ag,7,H,8410,Randers FC
+280,3847497,2022-04-08 11:30:00,Jakob Kehlet,fouls_for,9,H,8470,Aalborg BK
+281,3847497,2022-04-08 11:30:00,Jakob Kehlet,fouls_ag,4,H,8470,Aalborg BK
+282,3847502,2022-04-14 11:00:00,Mikkel Redder,fouls_for,8,H,8595,Brøndby IF
+283,3847502,2022-04-14 11:00:00,Mikkel Redder,fouls_ag,11,H,8595,Brøndby IF
+284,3847494,2022-04-10 07:00:00,Sandi Putros,fouls_for,12,H,10202,Nordsjælland
+285,3847494,2022-04-10 07:00:00,Sandi Putros,fouls_ag,10,H,10202,Nordsjælland
+286,3847501,2022-04-14 09:00:00,Anders Poulsen,fouls_for,6,H,8415,Silkeborg
+287,3847501,2022-04-14 09:00:00,Anders Poulsen,fouls_ag,6,H,8415,Silkeborg
+288,3847498,2022-04-10 09:00:00,Jørgen Daugbjerg Burchardt,fouls_for,11,H,8415,Silkeborg
+289,3847498,2022-04-10 09:00:00,Jørgen Daugbjerg Burchardt,fouls_ag,5,H,8415,Silkeborg
+290,3847510,2022-04-14 07:00:00,Jakob A. Sundberg,fouls_for,19,H,8414,Odense
+291,3847510,2022-04-14 07:00:00,Jakob A. Sundberg,fouls_ag,9,H,8414,Odense
+292,3847499,2022-04-10 11:00:00,Jakob A. Sundberg,fouls_for,9,H,8391,FC København
+293,3847499,2022-04-10 11:00:00,Jakob A. Sundberg,fouls_ag,10,H,8391,FC København
+294,3847495,2022-04-10 07:00:00,Peter Kjærsgaard-Andersen,fouls_for,14,H,8487,SønderjyskE
+295,3847495,2022-04-10 07:00:00,Peter Kjærsgaard-Andersen,fouls_ag,13,H,8487,SønderjyskE
+296,3847511,2022-04-15 11:00:00,Jens Maae,fouls_for,12,H,10202,Nordsjælland
+297,3847511,2022-04-15 11:00:00,Jens Maae,fouls_ag,8,H,10202,Nordsjælland
+298,3847509,2022-04-14 07:00:00,Peter Kjærsgaard-Andersen,fouls_for,9,H,8071,AGF Aarhus
+299,3847509,2022-04-14 07:00:00,Peter Kjærsgaard-Andersen,fouls_ag,13,H,8071,AGF Aarhus
+300,3847515,2022-04-22 12:00:00,Mikkel Redder,fouls_for,14,H,8487,SønderjyskE
+301,3847515,2022-04-22 12:00:00,Mikkel Redder,fouls_ag,11,H,8487,SønderjyskE
+302,3847503,2022-04-18 09:00:00,Sandi Putros,fouls_for,10,H,8391,FC København
+303,3847503,2022-04-18 09:00:00,Sandi Putros,fouls_ag,9,H,8391,FC København
+304,3847504,2022-04-18 11:00:00,Jørgen Daugbjerg Burchardt,fouls_for,13,H,8113,Midtjylland
+305,3847504,2022-04-18 11:00:00,Jørgen Daugbjerg Burchardt,fouls_ag,13,H,8113,Midtjylland
+306,3847508,2022-04-25 12:00:00,Jakob Kehlet,fouls_for,8,H,8595,Brøndby IF
+307,3847508,2022-04-25 12:00:00,Jakob Kehlet,fouls_ag,11,H,8595,Brøndby IF
+308,3847513,2022-04-18 07:00:00,Jonas Hansen,fouls_for,17,H,8487,SønderjyskE
+309,3847513,2022-04-18 07:00:00,Jonas Hansen,fouls_ag,13,H,8487,SønderjyskE
+310,3847514,2022-04-18 07:00:00,Jakob Kehlet,fouls_for,7,H,8231,Vejle Boldklub
+311,3847514,2022-04-18 07:00:00,Jakob Kehlet,fouls_ag,7,H,8231,Vejle Boldklub
+312,3847505,2022-04-19 12:00:00,Michael Tykgaard,fouls_for,7,H,8410,Randers FC
+313,3847505,2022-04-19 12:00:00,Michael Tykgaard,fouls_ag,3,H,8410,Randers FC
+314,3847512,2022-04-17 11:00:00,Aydin Uslu,fouls_for,14,H,9939,Viborg
+315,3847512,2022-04-17 11:00:00,Aydin Uslu,fouls_ag,5,H,9939,Viborg
+316,3847507,2022-04-24 09:00:00,Peter Kjærsgaard-Andersen,fouls_for,5,H,8391,FC København
+317,3847507,2022-04-24 09:00:00,Peter Kjærsgaard-Andersen,fouls_ag,15,H,8391,FC København
+318,3847523,2022-05-02 12:00:00,Mads-Kristoffer Kristoffersen,fouls_for,11,H,8415,Silkeborg
+319,3847523,2022-05-02 12:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,5,H,8415,Silkeborg
+320,3847517,2022-04-24 11:00:00,Morten Krogh,fouls_for,14,H,8071,AGF Aarhus
+321,3847517,2022-04-24 11:00:00,Morten Krogh,fouls_ag,13,H,8071,AGF Aarhus
+322,3847521,2022-05-01 09:00:00,Jonas Hansen,fouls_for,8,H,8410,Randers FC
+323,3847521,2022-05-01 09:00:00,Jonas Hansen,fouls_ag,7,H,8410,Randers FC
+324,3847506,2022-04-24 07:00:00,Sandi Putros,fouls_for,13,H,8470,Aalborg BK
+325,3847506,2022-04-24 07:00:00,Sandi Putros,fouls_ag,5,H,8470,Aalborg BK
+326,3847518,2022-04-29 12:00:00,Anders Poulsen,fouls_for,11,H,9939,Viborg
+327,3847518,2022-04-29 12:00:00,Anders Poulsen,fouls_ag,3,H,9939,Viborg
+328,3847516,2022-04-24 07:00:00,Jakob A. Sundberg,fouls_for,9,H,10202,Nordsjælland
+329,3847516,2022-04-24 07:00:00,Jakob A. Sundberg,fouls_ag,5,H,10202,Nordsjælland
+330,3847526,2022-05-08 11:00:00,Peter Kjærsgaard-Andersen,fouls_for,12,H,8470,Aalborg BK
+331,3847526,2022-05-08 11:00:00,Peter Kjærsgaard-Andersen,fouls_ag,9,H,8470,Aalborg BK
+332,3847522,2022-05-01 11:00:00,Morten Krogh,fouls_for,12,H,8113,Midtjylland
+333,3847522,2022-05-01 11:00:00,Morten Krogh,fouls_ag,10,H,8113,Midtjylland
+334,3847520,2022-05-01 07:00:00,Aydin Uslu,fouls_for,6,H,8231,Vejle Boldklub
+335,3847520,2022-05-01 07:00:00,Aydin Uslu,fouls_ag,16,H,8231,Vejle Boldklub
+336,3847524,2022-05-06 12:00:00,Mikkel Redder,fouls_for,4,H,8415,Silkeborg
+337,3847524,2022-05-06 12:00:00,Mikkel Redder,fouls_ag,7,H,8415,Silkeborg
+338,3847537,2022-05-08 13:00:00,Sandi Putros,fouls_for,11,H,8071,AGF Aarhus
+339,3847537,2022-05-08 13:00:00,Sandi Putros,fouls_ag,12,H,8071,AGF Aarhus
+340,3847519,2022-05-01 07:00:00,Jens Grabski Maae,fouls_for,8,H,8414,Odense
+341,3847519,2022-05-01 07:00:00,Jens Grabski Maae,fouls_ag,11,H,8414,Odense
+342,3847528,2022-05-11 13:00:00,Jens Grabski Maae,fouls_for,3,H,8391,FC København
+343,3847528,2022-05-11 13:00:00,Jens Grabski Maae,fouls_ag,13,H,8391,FC København
+344,3847539,2022-05-11 11:00:00,Mads-Kristoffer Kristoffersen,fouls_for,5,H,8487,SønderjyskE
+345,3847539,2022-05-11 11:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,8,H,8487,SønderjyskE
+346,3847525,2022-05-08 09:00:00,Michael Tykgaard,fouls_for,11,H,8595,Brøndby IF
+347,3847525,2022-05-08 09:00:00,Michael Tykgaard,fouls_ag,10,H,8595,Brøndby IF
+348,3847536,2022-05-08 07:00:00,Jørgen Daugbjerg Burchardt,fouls_for,14,H,10202,Nordsjælland
+349,3847536,2022-05-08 07:00:00,Jørgen Daugbjerg Burchardt,fouls_ag,7,H,10202,Nordsjælland
+350,3847538,2022-05-09 12:00:00,Jakob Kehlet,fouls_for,9,H,9939,Viborg
+351,3847538,2022-05-09 12:00:00,Jakob Kehlet,fouls_ag,8,H,9939,Viborg
+352,3847527,2022-05-11 11:00:00,Aydin Uslu,fouls_for,7,H,8410,Randers FC
+353,3847527,2022-05-11 11:00:00,Aydin Uslu,fouls_ag,8,H,8410,Randers FC
+354,3847542,2022-05-15 07:00:00,Jonas Hansen,fouls_for,7,H,10202,Nordsjælland
+355,3847542,2022-05-15 07:00:00,Jonas Hansen,fouls_ag,12,H,10202,Nordsjælland
+356,3847530,2022-05-15 09:00:00,Sandi Putros,fouls_for,12,H,8410,Randers FC
+357,3847530,2022-05-15 09:00:00,Sandi Putros,fouls_ag,6,H,8410,Randers FC
+358,3847529,2022-05-12 13:00:00,Jakob A. Sundberg,fouls_for,9,H,8113,Midtjylland
+359,3847529,2022-05-12 13:00:00,Jakob A. Sundberg,fouls_ag,9,H,8113,Midtjylland
+360,3847540,2022-05-12 11:00:00,Jørgen Daugbjerg Burchardt,fouls_for,17,H,8231,Vejle Boldklub
+361,3847540,2022-05-12 11:00:00,Jørgen Daugbjerg Burchardt,fouls_ag,14,H,8231,Vejle Boldklub
+362,3847541,2022-05-12 11:00:00,Mikkel Redder,fouls_for,14,H,8414,Odense
+363,3847541,2022-05-12 11:00:00,Mikkel Redder,fouls_ag,9,H,8414,Odense
+364,3847543,2022-05-15 07:00:00,Anders Poulsen,fouls_for,7,H,8414,Odense
+365,3847543,2022-05-15 07:00:00,Anders Poulsen,fouls_ag,9,H,8414,Odense
+366,3847531,2022-05-15 11:00:00,Morten Krogh,fouls_for,12,H,8470,Aalborg BK
+367,3847531,2022-05-15 11:00:00,Morten Krogh,fouls_ag,12,H,8470,Aalborg BK
+368,3847532,2022-05-16 12:00:00,Michael Tykgaard,fouls_for,3,H,8415,Silkeborg
+369,3847532,2022-05-16 12:00:00,Michael Tykgaard,fouls_ag,4,H,8415,Silkeborg
+370,3847544,2022-05-15 13:00:00,Peter Kjaersgaard,fouls_for,14,H,9939,Viborg
+371,3847544,2022-05-15 13:00:00,Peter Kjaersgaard,fouls_ag,5,H,9939,Viborg
+372,3847533,2022-05-22 10:00:00,Mikkel Redder,fouls_for,4,H,8391,FC København
+373,3847533,2022-05-22 10:00:00,Mikkel Redder,fouls_ag,8,H,8391,FC København
+374,3847547,2022-05-21 10:00:00,Jens Grabski Maae,fouls_for,5,H,8487,SønderjyskE
+375,3847547,2022-05-21 10:00:00,Jens Grabski Maae,fouls_ag,7,H,8487,SønderjyskE
+376,3847534,2022-05-22 10:00:00,Jakob Kehlet,fouls_for,5,H,8113,Midtjylland
+377,3847534,2022-05-22 10:00:00,Jakob Kehlet,fouls_ag,13,H,8113,Midtjylland
+378,3847546,2022-05-21 10:05:00,Mads-Kristoffer Kristoffersen,fouls_for,12,H,8231,Vejle Boldklub
+379,3847546,2022-05-21 10:05:00,Mads-Kristoffer Kristoffersen,fouls_ag,4,H,8231,Vejle Boldklub
+380,3880957,2022-05-29 11:30:00,Jakob Kehlet,fouls_for,15,H,8470,Aalborg BK
+381,3880957,2022-05-29 11:30:00,Jakob Kehlet,fouls_ag,7,H,8470,Aalborg BK
+382,3847535,2022-05-22 10:05:00,Anders Poulsen,fouls_for,2,H,8595,Brøndby IF
+383,3847535,2022-05-22 10:05:00,Anders Poulsen,fouls_ag,3,H,8595,Brøndby IF
+384,3847545,2022-05-21 10:05:00,Jakob A. Sundberg,fouls_for,13,H,8071,AGF Aarhus
+385,3847545,2022-05-21 10:05:00,Jakob A. Sundberg,fouls_ag,8,H,8071,AGF Aarhus
+386,3597749,2021-07-25 07:00:00,Aydin Uslu,fouls_for,14,A,8071,AGF Aarhus
+387,3597749,2021-07-25 07:00:00,Aydin Uslu,fouls_ag,15,A,8071,AGF Aarhus
+388,3597742,2021-07-18 07:00:00,Morten Krogh,fouls_for,21,A,9939,Viborg
+389,3597742,2021-07-18 07:00:00,Morten Krogh,fouls_ag,12,A,9939,Viborg
+390,3597744,2021-07-18 09:00:00,Mads-Kristoffer Kristoffersen,fouls_for,16,A,8470,Aalborg BK
+391,3597744,2021-07-18 09:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,8,A,8470,Aalborg BK
+392,3597743,2021-07-18 07:00:00,Jonas Hansen,fouls_for,19,A,8410,Randers FC
+393,3597743,2021-07-18 07:00:00,Jonas Hansen,fouls_ag,10,A,8410,Randers FC
+394,3597741,2021-07-16 12:00:00,Sandi Putros,fouls_for,20,A,8414,Odense
+395,3597741,2021-07-16 12:00:00,Sandi Putros,fouls_ag,10,A,8414,Odense
+396,3597750,2021-07-25 07:00:00,Jakob Sundberg,fouls_for,12,A,8414,Odense
+397,3597750,2021-07-25 07:00:00,Jakob Sundberg,fouls_ag,15,A,8414,Odense
+398,3597745,2021-07-18 12:00:00,Jens Grabski Maae,fouls_for,15,A,8595,Brøndby IF
+399,3597745,2021-07-18 12:00:00,Jens Grabski Maae,fouls_ag,10,A,8595,Brøndby IF
+400,3597752,2021-07-25 11:00:00,Joergen Daugbjerg Burchardt,fouls_for,9,A,9939,Viborg
+401,3597752,2021-07-25 11:00:00,Joergen Daugbjerg Burchardt,fouls_ag,9,A,9939,Viborg
+402,3597746,2021-07-19 12:00:00,Mikkel Redder,fouls_for,4,A,8487,SønderjyskE
+403,3597746,2021-07-19 12:00:00,Mikkel Redder,fouls_ag,8,A,8487,SønderjyskE
+404,3597748,2021-07-24 11:00:00,Jakob Kehlet,fouls_for,6,A,8113,Midtjylland
+405,3597748,2021-07-24 11:00:00,Jakob Kehlet,fouls_ag,16,A,8113,Midtjylland
+406,3597759,2021-08-01 07:00:00,Sandi Putros,fouls_for,11,A,8470,Aalborg BK
+407,3597759,2021-08-01 07:00:00,Sandi Putros,fouls_ag,9,A,8470,Aalborg BK
+408,3597751,2021-07-25 09:00:00,Peter Kjaersgaard,fouls_for,9,A,8415,Silkeborg
+409,3597751,2021-07-25 09:00:00,Peter Kjaersgaard,fouls_ag,6,A,8415,Silkeborg
+410,3597753,2021-07-26 12:00:00,Michael Tykgaard,fouls_for,16,A,8231,Vejle Boldklub
+411,3597753,2021-07-26 12:00:00,Michael Tykgaard,fouls_ag,11,A,8231,Vejle Boldklub
+412,3597758,2021-08-02 12:00:00,Jens Grabski Maae,fouls_for,14,A,10202,Nordsjælland
+413,3597758,2021-08-02 12:00:00,Jens Grabski Maae,fouls_ag,8,A,10202,Nordsjælland
+414,3597757,2021-07-31 09:00:00,Anders Poulsen,fouls_for,8,A,8113,Midtjylland
+415,3597757,2021-07-31 09:00:00,Anders Poulsen,fouls_ag,6,A,8113,Midtjylland
+416,3597754,2021-08-01 07:00:00,Mads-Kristoffer Kristoffersen,fouls_for,13,A,8410,Randers FC
+417,3597754,2021-08-01 07:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,13,A,8410,Randers FC
+418,3597756,2021-08-01 09:00:00,Jakob Sundberg,fouls_for,13,A,8595,Brøndby IF
+419,3597756,2021-08-01 09:00:00,Jakob Sundberg,fouls_ag,6,A,8595,Brøndby IF
+420,3597755,2021-08-01 11:00:00,Jakob Kehlet,fouls_for,5,A,8391,FC København
+421,3597755,2021-08-01 11:00:00,Jakob Kehlet,fouls_ag,11,A,8391,FC København
+422,3597760,2021-08-06 13:30:00,Mikkel Redder,fouls_for,8,A,8231,Vejle Boldklub
+423,3597760,2021-08-06 13:30:00,Mikkel Redder,fouls_ag,15,A,8231,Vejle Boldklub
+424,3597765,2021-08-06 11:30:00,Jens Grabski Maae,fouls_for,13,A,9939,Viborg
+425,3597765,2021-08-06 11:30:00,Jens Grabski Maae,fouls_ag,9,A,9939,Viborg
+426,3597771,2021-08-13 10:30:00,Morten Krogh,fouls_for,12,A,8113,Midtjylland
+427,3597771,2021-08-13 10:30:00,Morten Krogh,fouls_ag,9,A,8113,Midtjylland
+428,3597762,2021-08-08 11:00:00,Joergen Daugbjerg Burchardt,fouls_for,14,A,8071,AGF Aarhus
+429,3597762,2021-08-08 11:00:00,Joergen Daugbjerg Burchardt,fouls_ag,24,A,8071,AGF Aarhus
+430,3597769,2021-08-16 12:00:00,Jakob Kehlet,fouls_for,13,A,8470,Aalborg BK
+431,3597769,2021-08-16 12:00:00,Jakob Kehlet,fouls_ag,8,A,8470,Aalborg BK
+432,3597761,2021-08-08 09:00:00,Mads-Kristoffer Kristoffersen,fouls_for,8,A,8595,Brøndby IF
+433,3597761,2021-08-08 09:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,10,A,8595,Brøndby IF
+434,3597764,2021-08-08 07:00:00,Michael Tykgaard,fouls_for,9,A,8487,SønderjyskE
+435,3597764,2021-08-08 07:00:00,Michael Tykgaard,fouls_ag,5,A,8487,SønderjyskE
+436,3597763,2021-08-09 12:00:00,Sandi Putros,fouls_for,10,A,8414,Odense
+437,3597763,2021-08-09 12:00:00,Sandi Putros,fouls_ag,11,A,8414,Odense
+438,3597772,2021-08-20 12:00:00,Mads-Kristoffer Kristoffersen,fouls_for,5,A,8415,Silkeborg
+439,3597772,2021-08-20 12:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,5,A,8415,Silkeborg
+440,3597770,2021-08-13 12:15:00,Aydin Uslu,fouls_for,7,A,8410,Randers FC
+441,3597770,2021-08-13 12:15:00,Aydin Uslu,fouls_ag,7,A,8410,Randers FC
+442,3597766,2021-08-13 14:00:00,Peter Kjaersgaard,fouls_for,15,A,10202,Nordsjælland
+443,3597766,2021-08-13 14:00:00,Peter Kjaersgaard,fouls_ag,7,A,10202,Nordsjælland
+444,3597768,2021-08-15 09:00:00,Jonas Hansen,fouls_for,13,A,8415,Silkeborg
+445,3597768,2021-08-15 09:00:00,Jonas Hansen,fouls_ag,6,A,8415,Silkeborg
+446,3597767,2021-08-15 11:00:00,Jakob Sundberg,fouls_for,15,A,8391,FC København
+447,3597767,2021-08-15 11:00:00,Jakob Sundberg,fouls_ag,10,A,8391,FC København
+448,3597780,2021-08-27 12:00:00,Aydin Uslu,fouls_for,12,A,10202,Nordsjælland
+449,3597780,2021-08-27 12:00:00,Aydin Uslu,fouls_ag,14,A,10202,Nordsjælland
+450,3597774,2021-08-21 11:00:00,Joergen Daugbjerg Burchardt,fouls_for,8,A,8595,Brøndby IF
+451,3597774,2021-08-21 11:00:00,Joergen Daugbjerg Burchardt,fouls_ag,10,A,8595,Brøndby IF
+452,3597775,2021-08-23 12:05:00,Anders Poulsen,fouls_for,12,A,8231,Vejle Boldklub
+453,3597775,2021-08-23 12:05:00,Anders Poulsen,fouls_ag,11,A,8231,Vejle Boldklub
+454,3597776,2021-08-22 11:00:00,Michael Tykgaard,fouls_for,15,A,8071,AGF Aarhus
+455,3597776,2021-08-22 11:00:00,Michael Tykgaard,fouls_ag,16,A,8071,AGF Aarhus
+456,3597783,2021-08-29 07:00:00,Jakob Kehlet,fouls_for,3,A,8410,Randers FC
+457,3597783,2021-08-29 07:00:00,Jakob Kehlet,fouls_ag,4,A,8410,Randers FC
+458,3597777,2021-08-22 07:10:00,Mikkel Redder,fouls_for,9,A,8470,Aalborg BK
+459,3597777,2021-08-22 07:10:00,Mikkel Redder,fouls_ag,13,A,8470,Aalborg BK
+460,3597781,2021-08-29 09:00:00,Jonas Hansen,fouls_for,9,A,8391,FC København
+461,3597781,2021-08-29 09:00:00,Jonas Hansen,fouls_ag,10,A,8391,FC København
+462,3597773,2021-08-22 09:00:00,Peter Kjaersgaard,fouls_for,13,A,8487,SønderjyskE
+463,3597773,2021-08-22 09:00:00,Peter Kjaersgaard,fouls_ag,6,A,8487,SønderjyskE
+464,3597782,2021-08-29 07:00:00,Jens Grabski Maae,fouls_for,21,A,9939,Viborg
+465,3597782,2021-08-29 07:00:00,Jens Grabski Maae,fouls_ag,6,A,9939,Viborg
+466,3597784,2021-09-10 13:00:00,Mads-Kristoffer Kristoffersen,fouls_for,6,A,8415,Silkeborg
+467,3597784,2021-09-10 13:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,6,A,8415,Silkeborg
+468,3597788,2021-09-12 07:00:00,Peter Kjaersgaard,fouls_for,7,A,8470,Aalborg BK
+469,3597788,2021-09-12 07:00:00,Peter Kjaersgaard,fouls_ag,9,A,8470,Aalborg BK
+470,3597785,2021-09-10 11:00:00,Mikkel Redder,fouls_for,15,A,10202,Nordsjælland
+471,3597785,2021-09-10 11:00:00,Mikkel Redder,fouls_ag,11,A,10202,Nordsjælland
+472,3597779,2021-08-29 11:00:00,Morten Krogh,fouls_for,19,A,8414,Odense
+473,3597779,2021-08-29 11:00:00,Morten Krogh,fouls_ag,16,A,8414,Odense
+474,3597778,2021-08-29 13:00:00,Sandi Putros,fouls_for,13,A,8113,Midtjylland
+475,3597778,2021-08-29 13:00:00,Sandi Putros,fouls_ag,12,A,8113,Midtjylland
+476,3597787,2021-09-13 12:00:00,Anders Poulsen,fouls_for,10,A,8487,SønderjyskE
+477,3597787,2021-09-13 12:00:00,Anders Poulsen,fouls_ag,9,A,8487,SønderjyskE
+478,3597786,2021-09-12 11:00:00,Michael Tykgaard,fouls_for,15,A,8231,Vejle Boldklub
+479,3597786,2021-09-12 11:00:00,Michael Tykgaard,fouls_ag,12,A,8231,Vejle Boldklub
+480,3597789,2021-09-12 09:00:00,Sandi Putros,fouls_for,7,A,8391,FC København
+481,3597789,2021-09-12 09:00:00,Sandi Putros,fouls_ag,11,A,8391,FC København
+482,3597791,2021-09-17 12:00:00,Jens Grabski Maae,fouls_for,8,A,8414,Odense
+483,3597791,2021-09-17 12:00:00,Jens Grabski Maae,fouls_ag,15,A,8414,Odense
+484,3597795,2021-09-20 12:00:00,Joergen Daugbjerg Burchardt,fouls_for,22,A,8071,AGF Aarhus
+485,3597795,2021-09-20 12:00:00,Joergen Daugbjerg Burchardt,fouls_ag,9,A,8071,AGF Aarhus
+486,3597798,2021-09-27 12:00:00,Jonas Hansen,fouls_for,14,A,8487,SønderjyskE
+487,3597798,2021-09-27 12:00:00,Jonas Hansen,fouls_ag,16,A,8487,SønderjyskE
+488,3597801,2021-09-26 07:00:00,Jakob Kehlet,fouls_for,8,A,8414,Odense
+489,3597801,2021-09-26 07:00:00,Jakob Kehlet,fouls_ag,13,A,8414,Odense
+490,3597797,2021-09-26 07:00:00,Joergen Daugbjerg Burchardt,fouls_for,16,A,8410,Randers FC
+491,3597797,2021-09-26 07:00:00,Joergen Daugbjerg Burchardt,fouls_ag,11,A,8410,Randers FC
+492,3597796,2021-09-26 11:00:00,Sandi Putros,fouls_for,10,A,8470,Aalborg BK
+493,3597796,2021-09-26 11:00:00,Sandi Putros,fouls_ag,4,A,8470,Aalborg BK
+494,3597794,2021-09-19 09:00:00,Morten Krogh,fouls_for,10,A,8595,Brøndby IF
+495,3597794,2021-09-19 09:00:00,Morten Krogh,fouls_ag,13,A,8595,Brøndby IF
+496,3597793,2021-09-19 07:00:00,Jakob Sundberg,fouls_for,8,A,10202,Nordsjælland
+497,3597793,2021-09-19 07:00:00,Jakob Sundberg,fouls_ag,14,A,10202,Nordsjælland
+498,3597792,2021-09-19 07:00:00,Aydin Uslu,fouls_for,14,A,9939,Viborg
+499,3597792,2021-09-19 07:00:00,Aydin Uslu,fouls_ag,5,A,9939,Viborg
+500,3597807,2021-10-03 07:00:00,Anders Poulsen,fouls_for,9,A,10202,Nordsjælland
+501,3597807,2021-10-03 07:00:00,Anders Poulsen,fouls_ag,7,A,10202,Nordsjælland
+502,3597790,2021-09-19 11:00:00,Jakob Kehlet,fouls_for,9,A,8113,Midtjylland
+503,3597790,2021-09-19 11:00:00,Jakob Kehlet,fouls_ag,16,A,8113,Midtjylland
+504,3597799,2021-09-26 09:00:00,Mads-Kristoffer Kristoffersen,fouls_for,12,A,8391,FC København
+505,3597799,2021-09-26 09:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,7,A,8391,FC København
+506,3597800,2021-09-26 13:00:00,Mikkel Redder,fouls_for,6,A,8415,Silkeborg
+507,3597800,2021-09-26 13:00:00,Mikkel Redder,fouls_ag,9,A,8415,Silkeborg
+508,3597805,2021-10-01 12:00:00,Jakob Sundberg,fouls_for,11,A,8231,Vejle Boldklub
+509,3597805,2021-10-01 12:00:00,Jakob Sundberg,fouls_ag,13,A,8231,Vejle Boldklub
+510,3597804,2021-10-03 07:00:00,Mikkel Redder,fouls_for,8,A,8487,SønderjyskE
+511,3597804,2021-10-03 07:00:00,Mikkel Redder,fouls_ag,13,A,8487,SønderjyskE
+512,3597803,2021-10-03 13:00:00,Morten Krogh,fouls_for,13,A,9939,Viborg
+513,3597803,2021-10-03 13:00:00,Morten Krogh,fouls_ag,5,A,9939,Viborg
+514,3597817,2021-10-22 12:00:00,Jonas Hansen,fouls_for,11,A,10202,Nordsjælland
+515,3597817,2021-10-22 12:00:00,Jonas Hansen,fouls_ag,11,A,10202,Nordsjælland
+516,3597802,2021-10-03 09:00:00,Sandi Putros,fouls_for,13,A,8071,AGF Aarhus
+517,3597802,2021-10-03 09:00:00,Sandi Putros,fouls_ag,9,A,8071,AGF Aarhus
+518,3597806,2021-10-03 11:00:00,Jens Grabski Maae,fouls_for,10,A,8595,Brøndby IF
+519,3597806,2021-10-03 11:00:00,Jens Grabski Maae,fouls_ag,11,A,8595,Brøndby IF
+520,3597812,2021-10-15 12:00:00,Peter Kjaersgaard,fouls_for,8,A,8415,Silkeborg
+521,3597812,2021-10-15 12:00:00,Peter Kjaersgaard,fouls_ag,9,A,8415,Silkeborg
+522,3597809,2021-10-18 12:10:00,Jakob Sundberg,fouls_for,15,A,8470,Aalborg BK
+523,3597809,2021-10-18 12:10:00,Jakob Sundberg,fouls_ag,14,A,8470,Aalborg BK
+524,3597808,2021-10-17 09:00:00,Mads-Kristoffer Kristoffersen,fouls_for,9,A,8231,Vejle Boldklub
+525,3597808,2021-10-17 09:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,6,A,8231,Vejle Boldklub
+526,3597813,2021-10-17 11:00:00,Joergen Daugbjerg Burchardt,fouls_for,13,A,8391,FC København
+527,3597813,2021-10-17 11:00:00,Joergen Daugbjerg Burchardt,fouls_ag,9,A,8391,FC København
+528,3597810,2021-10-17 07:00:00,Aydin Uslu,fouls_for,12,A,8410,Randers FC
+529,3597810,2021-10-17 07:00:00,Aydin Uslu,fouls_ag,6,A,8410,Randers FC
+530,3597816,2021-10-25 12:00:00,Michael Tykgaard,fouls_for,15,A,9939,Viborg
+531,3597816,2021-10-25 12:00:00,Michael Tykgaard,fouls_ag,6,A,9939,Viborg
+532,3597811,2021-10-17 06:00:00,Jens Grabski Maae,fouls_for,8,A,8113,Midtjylland
+533,3597811,2021-10-17 06:00:00,Jens Grabski Maae,fouls_ag,9,A,8113,Midtjylland
+534,3597818,2021-10-24 09:00:00,Morten Krogh,fouls_for,15,A,8071,AGF Aarhus
+535,3597818,2021-10-24 09:00:00,Morten Krogh,fouls_ag,10,A,8071,AGF Aarhus
+536,3597814,2021-10-24 07:00:00,Peter Kjaersgaard,fouls_for,10,A,8391,FC København
+537,3597814,2021-10-24 07:00:00,Peter Kjaersgaard,fouls_ag,9,A,8391,FC København
+538,3597821,2021-11-01 12:00:00,Mikkel Redder,fouls_for,10,A,8071,AGF Aarhus
+539,3597821,2021-11-01 12:00:00,Mikkel Redder,fouls_ag,12,A,8071,AGF Aarhus
+540,3597822,2021-10-31 07:00:00,Anders Poulsen,fouls_for,5,A,8470,Aalborg BK
+541,3597822,2021-10-31 07:00:00,Anders Poulsen,fouls_ag,8,A,8470,Aalborg BK
+542,3597824,2021-10-31 07:00:00,Jakob Sundberg,fouls_for,10,A,8113,Midtjylland
+543,3597824,2021-10-31 07:00:00,Jakob Sundberg,fouls_ag,15,A,8113,Midtjylland
+544,3597823,2021-10-31 11:00:00,Joergen Daugbjerg Burchardt,fouls_for,11,A,8595,Brøndby IF
+545,3597823,2021-10-31 11:00:00,Joergen Daugbjerg Burchardt,fouls_ag,15,A,8595,Brøndby IF
+546,3597825,2021-10-31 13:00:00,Jens Grabski Maae,fouls_for,6,A,8415,Silkeborg
+547,3597825,2021-10-31 13:00:00,Jens Grabski Maae,fouls_ag,9,A,8415,Silkeborg
+548,3597819,2021-10-24 07:00:00,Sandi Putros,fouls_for,8,A,8414,Odense
+549,3597819,2021-10-24 07:00:00,Sandi Putros,fouls_ag,10,A,8414,Odense
+550,3597815,2021-10-24 11:00:00,Jakob Kehlet,fouls_for,13,A,8487,SønderjyskE
+551,3597815,2021-10-24 11:00:00,Jakob Kehlet,fouls_ag,13,A,8487,SønderjyskE
+552,3597830,2021-11-05 12:00:00,Peter Kjaersgaard,fouls_for,11,A,10202,Nordsjælland
+553,3597830,2021-11-05 12:00:00,Peter Kjaersgaard,fouls_ag,11,A,10202,Nordsjælland
+554,3597828,2021-11-07 07:00:00,Jonas Hansen,fouls_for,12,A,8410,Randers FC
+555,3597828,2021-11-07 07:00:00,Jonas Hansen,fouls_ag,10,A,8410,Randers FC
+556,3597820,2021-10-31 09:00:00,Aydin Uslu,fouls_for,10,A,8231,Vejle Boldklub
+557,3597820,2021-10-31 09:00:00,Aydin Uslu,fouls_ag,13,A,8231,Vejle Boldklub
+558,3597827,2021-11-07 09:00:00,Sandi Putros,fouls_for,11,A,8113,Midtjylland
+559,3597827,2021-11-07 09:00:00,Sandi Putros,fouls_ag,25,A,8113,Midtjylland
+560,3597834,2021-11-19 12:00:00,Jakob Sundberg,fouls_for,21,A,9939,Viborg
+561,3597834,2021-11-19 12:00:00,Jakob Sundberg,fouls_ag,14,A,9939,Viborg
+562,3597875,2021-11-22 12:00:00,Peter Kjaersgaard,fouls_for,11,A,8470,Aalborg BK
+563,3597875,2021-11-22 12:00:00,Peter Kjaersgaard,fouls_ag,10,A,8470,Aalborg BK
+564,3597835,2021-11-21 07:00:00,Sandi Putros,fouls_for,10,A,8415,Silkeborg
+565,3597835,2021-11-21 07:00:00,Sandi Putros,fouls_ag,16,A,8415,Silkeborg
+566,3597829,2021-11-07 07:00:00,Morten Krogh,fouls_for,16,A,8487,SønderjyskE
+567,3597829,2021-11-07 07:00:00,Morten Krogh,fouls_ag,15,A,8487,SønderjyskE
+568,3597831,2021-11-07 13:00:00,Mads-Kristoffer Kristoffersen,fouls_for,12,A,8391,FC København
+569,3597831,2021-11-07 13:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,5,A,8391,FC København
+570,3597826,2021-11-07 11:00:00,Jakob Kehlet,fouls_for,9,A,8414,Odense
+571,3597826,2021-11-07 11:00:00,Jakob Kehlet,fouls_ag,13,A,8414,Odense
+572,3597874,2021-11-21 07:00:00,Jens Grabski Maae,fouls_for,10,A,8231,Vejle Boldklub
+573,3597874,2021-11-21 07:00:00,Jens Grabski Maae,fouls_ag,14,A,8231,Vejle Boldklub
+574,3597833,2021-11-21 09:00:00,Joergen Daugbjerg Burchardt,fouls_for,17,A,8071,AGF Aarhus
+575,3597833,2021-11-21 09:00:00,Joergen Daugbjerg Burchardt,fouls_ag,15,A,8071,AGF Aarhus
+576,3597832,2021-11-21 11:00:00,Morten Krogh,fouls_for,13,A,8595,Brøndby IF
+577,3597832,2021-11-21 11:00:00,Morten Krogh,fouls_ag,15,A,8595,Brøndby IF
+578,3597839,2021-11-26 12:00:00,Aydin Uslu,fouls_for,8,A,8415,Silkeborg
+579,3597839,2021-11-26 12:00:00,Aydin Uslu,fouls_ag,4,A,8415,Silkeborg
+580,3597843,2021-11-28 07:00:00,Anders Poulsen,fouls_for,10,A,8487,SønderjyskE
+581,3597843,2021-11-28 07:00:00,Anders Poulsen,fouls_ag,16,A,8487,SønderjyskE
+582,3597847,2022-02-21 12:00:00,Jakob Kehlet,fouls_for,10,A,9939,Viborg
+583,3597847,2022-02-21 12:00:00,Jakob Kehlet,fouls_ag,9,A,9939,Viborg
+584,3597844,2022-02-20 07:00:00,Morten Krogh,fouls_for,13,A,8470,Aalborg BK
+585,3597844,2022-02-20 07:00:00,Morten Krogh,fouls_ag,17,A,8470,Aalborg BK
+586,3597848,2022-02-18 12:00:00,Mads-Kristoffer Kristoffersen,fouls_for,10,A,8071,AGF Aarhus
+587,3597848,2022-02-18 12:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,16,A,8071,AGF Aarhus
+588,3597849,2022-02-20 07:00:00,Jonas Hansen,fouls_for,10,A,8231,Vejle Boldklub
+589,3597849,2022-02-20 07:00:00,Jonas Hansen,fouls_ag,9,A,8231,Vejle Boldklub
+590,3597842,2021-11-29 12:00:00,Mads-Kristoffer Kristoffersen,fouls_for,12,A,8113,Midtjylland
+591,3597842,2021-11-29 12:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,9,A,8113,Midtjylland
+592,3597846,2022-02-20 09:00:00,Jens Maae,fouls_for,7,A,8595,Brøndby IF
+593,3597846,2022-02-20 09:00:00,Jens Maae,fouls_ag,10,A,8595,Brøndby IF
+594,3597845,2022-02-20 11:00:00,Sandi Putros,fouls_for,11,A,8414,Odense
+595,3597845,2022-02-20 11:00:00,Sandi Putros,fouls_ag,6,A,8414,Odense
+596,3597841,2021-11-28 07:00:00,Michael Tykgaard,fouls_for,7,A,10202,Nordsjælland
+597,3597841,2021-11-28 07:00:00,Michael Tykgaard,fouls_ag,7,A,10202,Nordsjælland
+598,3597838,2021-11-28 09:00:00,Mikkel Redder,fouls_for,12,A,8410,Randers FC
+599,3597838,2021-11-28 09:00:00,Mikkel Redder,fouls_ag,7,A,8410,Randers FC
+600,3597840,2021-11-28 11:00:00,Jakob Kehlet,fouls_for,15,A,8391,FC København
+601,3597840,2021-11-28 11:00:00,Jakob Kehlet,fouls_ag,10,A,8391,FC København
+602,3597855,2022-02-27 09:00:00,Jakob Kehlet,fouls_for,7,A,8391,FC København
+603,3597855,2022-02-27 09:00:00,Jakob Kehlet,fouls_ag,4,A,8391,FC København
+604,3597856,2022-03-04 11:00:00,Jens Maae,fouls_for,15,A,9939,Viborg
+605,3597856,2022-03-04 11:00:00,Jens Maae,fouls_ag,8,A,9939,Viborg
+606,3597858,2022-03-04 13:00:00,Morten Krogh,fouls_for,6,A,8410,Randers FC
+607,3597858,2022-03-04 13:00:00,Morten Krogh,fouls_ag,6,A,8410,Randers FC
+608,3597854,2022-02-25 12:00:00,Jakob A. Sundberg,fouls_for,17,A,8071,AGF Aarhus
+609,3597854,2022-02-25 12:00:00,Jakob A. Sundberg,fouls_ag,17,A,8071,AGF Aarhus
+610,3597850,2022-02-28 12:00:00,Peter Kjærsgaard-Andersen,fouls_for,10,A,8487,SønderjyskE
+611,3597850,2022-02-28 12:00:00,Peter Kjærsgaard-Andersen,fouls_ag,14,A,8487,SønderjyskE
+612,3597861,2022-03-06 11:00:00,Jakob Kehlet,fouls_for,5,A,8595,Brøndby IF
+613,3597861,2022-03-06 11:00:00,Jakob Kehlet,fouls_ag,3,A,8595,Brøndby IF
+614,3597859,2022-03-06 09:00:00,Sandi Putros,fouls_for,13,A,8231,Vejle Boldklub
+615,3597859,2022-03-06 09:00:00,Sandi Putros,fouls_ag,15,A,8231,Vejle Boldklub
+616,3597851,2022-02-27 07:00:00,Mikkel Redder,fouls_for,12,A,8415,Silkeborg
+617,3597851,2022-02-27 07:00:00,Mikkel Redder,fouls_ag,11,A,8415,Silkeborg
+618,3597853,2022-02-27 07:00:00,Aydin Uslu,fouls_for,7,A,8410,Randers FC
+619,3597853,2022-02-27 07:00:00,Aydin Uslu,fouls_ag,13,A,8410,Randers FC
+620,3597857,2022-03-07 12:00:00,Jørgen Daugbjerg Burchardt,fouls_for,6,A,10202,Nordsjælland
+621,3597857,2022-03-07 12:00:00,Jørgen Daugbjerg Burchardt,fouls_ag,10,A,10202,Nordsjælland
+622,3597852,2022-02-27 11:00:00,Jørgen Daugbjerg Burchardt,fouls_for,11,A,8113,Midtjylland
+623,3597852,2022-02-27 11:00:00,Jørgen Daugbjerg Burchardt,fouls_ag,19,A,8113,Midtjylland
+624,3597865,2022-03-11 12:00:00,Jonas Hansen,fouls_for,5,A,8487,SønderjyskE
+625,3597865,2022-03-11 12:00:00,Jonas Hansen,fouls_ag,11,A,8487,SønderjyskE
+626,3597860,2022-03-06 07:00:00,Anders Poulsen,fouls_for,9,A,8414,Odense
+627,3597860,2022-03-06 07:00:00,Anders Poulsen,fouls_ag,16,A,8414,Odense
+628,3597863,2022-03-13 11:00:00,Mads-Kristoffer Kristoffersen,fouls_for,10,A,8391,FC København
+629,3597863,2022-03-13 11:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,7,A,8391,FC København
+630,3597864,2022-03-14 12:00:00,Jakob A. Sundberg,fouls_for,13,A,8470,Aalborg BK
+631,3597864,2022-03-14 12:00:00,Jakob A. Sundberg,fouls_ag,7,A,8470,Aalborg BK
+632,3597867,2022-03-13 07:00:00,Michael Tykgaard,fouls_for,6,A,8415,Silkeborg
+633,3597867,2022-03-13 07:00:00,Michael Tykgaard,fouls_ag,5,A,8415,Silkeborg
+634,3597868,2022-03-20 07:30:00,Peter Kjærsgaard-Andersen,fouls_for,13,A,9939,Viborg
+635,3597868,2022-03-20 07:30:00,Peter Kjærsgaard-Andersen,fouls_ag,17,A,9939,Viborg
+636,3597870,2022-03-20 07:30:00,Jens Maae,fouls_for,16,A,8595,Brøndby IF
+637,3597870,2022-03-20 07:30:00,Jens Maae,fouls_ag,12,A,8595,Brøndby IF
+638,3597866,2022-03-13 07:00:00,Anders Poulsen,fouls_for,12,A,8231,Vejle Boldklub
+639,3597866,2022-03-13 07:00:00,Anders Poulsen,fouls_ag,15,A,8231,Vejle Boldklub
+640,3597862,2022-03-13 09:00:00,Morten Krogh,fouls_for,10,A,8071,AGF Aarhus
+641,3597862,2022-03-13 09:00:00,Morten Krogh,fouls_ag,12,A,8071,AGF Aarhus
+642,3597871,2022-03-20 07:30:00,Morten Krogh,fouls_for,13,A,8414,Odense
+643,3597871,2022-03-20 07:30:00,Morten Krogh,fouls_ag,10,A,8414,Odense
+644,3597873,2022-03-20 07:30:00,Sandi Putros,fouls_for,9,A,8113,Midtjylland
+645,3597873,2022-03-20 07:30:00,Sandi Putros,fouls_ag,9,A,8113,Midtjylland
+646,3597869,2022-03-20 07:30:00,Jakob Kehlet,fouls_for,9,A,10202,Nordsjælland
+647,3597869,2022-03-20 07:30:00,Jakob Kehlet,fouls_ag,9,A,10202,Nordsjælland
+648,3597872,2022-03-20 07:30:00,Mikkel Redder,fouls_for,10,A,8410,Randers FC
+649,3597872,2022-03-20 07:30:00,Mikkel Redder,fouls_ag,13,A,8410,Randers FC
+650,3847492,2022-04-03 07:00:00,Mads-Kristoffer Kristoffersen,fouls_for,12,A,10202,Nordsjælland
+651,3847492,2022-04-03 07:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,14,A,10202,Nordsjælland
+652,3847489,2022-04-03 09:00:00,Aydin Uslu,fouls_for,12,A,8410,Randers FC
+653,3847489,2022-04-03 09:00:00,Aydin Uslu,fouls_ag,12,A,8410,Randers FC
+654,3847493,2022-04-01 11:00:00,Jørgen Daugbjerg Burchardt,fouls_for,11,A,8487,SønderjyskE
+655,3847493,2022-04-01 11:00:00,Jørgen Daugbjerg Burchardt,fouls_ag,12,A,8487,SønderjyskE
+656,3847488,2022-04-04 12:00:00,Jonas Hansen,fouls_for,3,A,8415,Silkeborg
+657,3847488,2022-04-04 12:00:00,Jonas Hansen,fouls_ag,7,A,8415,Silkeborg
+658,3847491,2022-04-03 07:00:00,Anders Poulsen,fouls_for,12,A,8231,Vejle Boldklub
+659,3847491,2022-04-03 07:00:00,Anders Poulsen,fouls_ag,14,A,8231,Vejle Boldklub
+660,3847487,2022-04-03 11:00:00,Michael Tykgaard,fouls_for,10,A,8391,FC København
+661,3847487,2022-04-03 11:00:00,Michael Tykgaard,fouls_ag,18,A,8391,FC København
+662,3847496,2022-04-11 12:00:00,Mads-Kristoffer Kristoffersen,fouls_for,10,A,9939,Viborg
+663,3847496,2022-04-11 12:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,17,A,9939,Viborg
+664,3847500,2022-04-13 11:30:00,Morten Krogh,fouls_for,7,A,8113,Midtjylland
+665,3847500,2022-04-13 11:30:00,Morten Krogh,fouls_ag,7,A,8113,Midtjylland
+666,3847497,2022-04-08 11:30:00,Jakob Kehlet,fouls_for,4,A,8410,Randers FC
+667,3847497,2022-04-08 11:30:00,Jakob Kehlet,fouls_ag,9,A,8410,Randers FC
+668,3847502,2022-04-14 11:00:00,Mikkel Redder,fouls_for,11,A,8470,Aalborg BK
+669,3847502,2022-04-14 11:00:00,Mikkel Redder,fouls_ag,8,A,8470,Aalborg BK
+670,3847494,2022-04-10 07:00:00,Sandi Putros,fouls_for,10,A,8071,AGF Aarhus
+671,3847494,2022-04-10 07:00:00,Sandi Putros,fouls_ag,12,A,8071,AGF Aarhus
+672,3847501,2022-04-14 09:00:00,Anders Poulsen,fouls_for,6,A,8391,FC København
+673,3847501,2022-04-14 09:00:00,Anders Poulsen,fouls_ag,6,A,8391,FC København
+674,3847498,2022-04-10 09:00:00,Jørgen Daugbjerg Burchardt,fouls_for,5,A,8595,Brøndby IF
+675,3847498,2022-04-10 09:00:00,Jørgen Daugbjerg Burchardt,fouls_ag,11,A,8595,Brøndby IF
+676,3847510,2022-04-14 07:00:00,Jakob A. Sundberg,fouls_for,9,A,8231,Vejle Boldklub
+677,3847510,2022-04-14 07:00:00,Jakob A. Sundberg,fouls_ag,19,A,8231,Vejle Boldklub
+678,3847499,2022-04-10 11:00:00,Jakob A. Sundberg,fouls_for,10,A,8113,Midtjylland
+679,3847499,2022-04-10 11:00:00,Jakob A. Sundberg,fouls_ag,9,A,8113,Midtjylland
+680,3847495,2022-04-10 07:00:00,Peter Kjærsgaard-Andersen,fouls_for,13,A,8414,Odense
+681,3847495,2022-04-10 07:00:00,Peter Kjærsgaard-Andersen,fouls_ag,14,A,8414,Odense
+682,3847511,2022-04-15 11:00:00,Jens Maae,fouls_for,8,A,8487,SønderjyskE
+683,3847511,2022-04-15 11:00:00,Jens Maae,fouls_ag,12,A,8487,SønderjyskE
+684,3847509,2022-04-14 07:00:00,Peter Kjærsgaard-Andersen,fouls_for,13,A,9939,Viborg
+685,3847509,2022-04-14 07:00:00,Peter Kjærsgaard-Andersen,fouls_ag,9,A,9939,Viborg
+686,3847515,2022-04-22 12:00:00,Mikkel Redder,fouls_for,11,A,8231,Vejle Boldklub
+687,3847515,2022-04-22 12:00:00,Mikkel Redder,fouls_ag,14,A,8231,Vejle Boldklub
+688,3847503,2022-04-18 09:00:00,Sandi Putros,fouls_for,9,A,8595,Brøndby IF
+689,3847503,2022-04-18 09:00:00,Sandi Putros,fouls_ag,10,A,8595,Brøndby IF
+690,3847504,2022-04-18 11:00:00,Jørgen Daugbjerg Burchardt,fouls_for,13,A,8470,Aalborg BK
+691,3847504,2022-04-18 11:00:00,Jørgen Daugbjerg Burchardt,fouls_ag,13,A,8470,Aalborg BK
+692,3847508,2022-04-25 12:00:00,Jakob Kehlet,fouls_for,11,A,8113,Midtjylland
+693,3847508,2022-04-25 12:00:00,Jakob Kehlet,fouls_ag,8,A,8113,Midtjylland
+694,3847513,2022-04-18 07:00:00,Jonas Hansen,fouls_for,13,A,8071,AGF Aarhus
+695,3847513,2022-04-18 07:00:00,Jonas Hansen,fouls_ag,17,A,8071,AGF Aarhus
+696,3847514,2022-04-18 07:00:00,Jakob Kehlet,fouls_for,7,A,10202,Nordsjælland
+697,3847514,2022-04-18 07:00:00,Jakob Kehlet,fouls_ag,7,A,10202,Nordsjælland
+698,3847505,2022-04-19 12:00:00,Michael Tykgaard,fouls_for,3,A,8415,Silkeborg
+699,3847505,2022-04-19 12:00:00,Michael Tykgaard,fouls_ag,7,A,8415,Silkeborg
+700,3847512,2022-04-17 11:00:00,Aydin Uslu,fouls_for,5,A,8414,Odense
+701,3847512,2022-04-17 11:00:00,Aydin Uslu,fouls_ag,14,A,8414,Odense
+702,3847507,2022-04-24 09:00:00,Peter Kjærsgaard-Andersen,fouls_for,15,A,8410,Randers FC
+703,3847507,2022-04-24 09:00:00,Peter Kjærsgaard-Andersen,fouls_ag,5,A,8410,Randers FC
+704,3847523,2022-05-02 12:00:00,Mads-Kristoffer Kristoffersen,fouls_for,5,A,8470,Aalborg BK
+705,3847523,2022-05-02 12:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,11,A,8470,Aalborg BK
+706,3847517,2022-04-24 11:00:00,Morten Krogh,fouls_for,13,A,8414,Odense
+707,3847517,2022-04-24 11:00:00,Morten Krogh,fouls_ag,14,A,8414,Odense
+708,3847521,2022-05-01 09:00:00,Jonas Hansen,fouls_for,7,A,8595,Brøndby IF
+709,3847521,2022-05-01 09:00:00,Jonas Hansen,fouls_ag,8,A,8595,Brøndby IF
+710,3847506,2022-04-24 07:00:00,Sandi Putros,fouls_for,5,A,8415,Silkeborg
+711,3847506,2022-04-24 07:00:00,Sandi Putros,fouls_ag,13,A,8415,Silkeborg
+712,3847518,2022-04-29 12:00:00,Anders Poulsen,fouls_for,3,A,10202,Nordsjælland
+713,3847518,2022-04-29 12:00:00,Anders Poulsen,fouls_ag,11,A,10202,Nordsjælland
+714,3847516,2022-04-24 07:00:00,Jakob A. Sundberg,fouls_for,5,A,9939,Viborg
+715,3847516,2022-04-24 07:00:00,Jakob A. Sundberg,fouls_ag,9,A,9939,Viborg
+716,3847526,2022-05-08 11:00:00,Peter Kjærsgaard-Andersen,fouls_for,9,A,8113,Midtjylland
+717,3847526,2022-05-08 11:00:00,Peter Kjærsgaard-Andersen,fouls_ag,12,A,8113,Midtjylland
+718,3847522,2022-05-01 11:00:00,Morten Krogh,fouls_for,10,A,8391,FC København
+719,3847522,2022-05-01 11:00:00,Morten Krogh,fouls_ag,12,A,8391,FC København
+720,3847520,2022-05-01 07:00:00,Aydin Uslu,fouls_for,16,A,8487,SønderjyskE
+721,3847520,2022-05-01 07:00:00,Aydin Uslu,fouls_ag,6,A,8487,SønderjyskE
+722,3847524,2022-05-06 12:00:00,Mikkel Redder,fouls_for,7,A,8410,Randers FC
+723,3847524,2022-05-06 12:00:00,Mikkel Redder,fouls_ag,4,A,8410,Randers FC
+724,3847537,2022-05-08 13:00:00,Sandi Putros,fouls_for,12,A,8487,SønderjyskE
+725,3847537,2022-05-08 13:00:00,Sandi Putros,fouls_ag,11,A,8487,SønderjyskE
+726,3847519,2022-05-01 07:00:00,Jens Grabski Maae,fouls_for,11,A,8071,AGF Aarhus
+727,3847519,2022-05-01 07:00:00,Jens Grabski Maae,fouls_ag,8,A,8071,AGF Aarhus
+728,3847528,2022-05-11 13:00:00,Jens Grabski Maae,fouls_for,13,A,8415,Silkeborg
+729,3847528,2022-05-11 13:00:00,Jens Grabski Maae,fouls_ag,3,A,8415,Silkeborg
+730,3847539,2022-05-11 11:00:00,Mads-Kristoffer Kristoffersen,fouls_for,8,A,10202,Nordsjælland
+731,3847539,2022-05-11 11:00:00,Mads-Kristoffer Kristoffersen,fouls_ag,5,A,10202,Nordsjælland
+732,3847525,2022-05-08 09:00:00,Michael Tykgaard,fouls_for,10,A,8391,FC København
+733,3847525,2022-05-08 09:00:00,Michael Tykgaard,fouls_ag,11,A,8391,FC København
+734,3847536,2022-05-08 07:00:00,Jørgen Daugbjerg Burchardt,fouls_for,7,A,8414,Odense
+735,3847536,2022-05-08 07:00:00,Jørgen Daugbjerg Burchardt,fouls_ag,14,A,8414,Odense
+736,3847538,2022-05-09 12:00:00,Jakob Kehlet,fouls_for,8,A,8231,Vejle Boldklub
+737,3847538,2022-05-09 12:00:00,Jakob Kehlet,fouls_ag,9,A,8231,Vejle Boldklub
+738,3847527,2022-05-11 11:00:00,Aydin Uslu,fouls_for,8,A,8470,Aalborg BK
+739,3847527,2022-05-11 11:00:00,Aydin Uslu,fouls_ag,7,A,8470,Aalborg BK
+740,3847542,2022-05-15 07:00:00,Jonas Hansen,fouls_for,12,A,8231,Vejle Boldklub
+741,3847542,2022-05-15 07:00:00,Jonas Hansen,fouls_ag,7,A,8231,Vejle Boldklub
+742,3847530,2022-05-15 09:00:00,Sandi Putros,fouls_for,6,A,8391,FC København
+743,3847530,2022-05-15 09:00:00,Sandi Putros,fouls_ag,12,A,8391,FC København
+744,3847529,2022-05-12 13:00:00,Jakob A. Sundberg,fouls_for,9,A,8595,Brøndby IF
+745,3847529,2022-05-12 13:00:00,Jakob A. Sundberg,fouls_ag,9,A,8595,Brøndby IF
+746,3847540,2022-05-12 11:00:00,Jørgen Daugbjerg Burchardt,fouls_for,14,A,8071,AGF Aarhus
+747,3847540,2022-05-12 11:00:00,Jørgen Daugbjerg Burchardt,fouls_ag,17,A,8071,AGF Aarhus
+748,3847541,2022-05-12 11:00:00,Mikkel Redder,fouls_for,9,A,9939,Viborg
+749,3847541,2022-05-12 11:00:00,Mikkel Redder,fouls_ag,14,A,9939,Viborg
+750,3847543,2022-05-15 07:00:00,Anders Poulsen,fouls_for,9,A,8487,SønderjyskE
+751,3847543,2022-05-15 07:00:00,Anders Poulsen,fouls_ag,7,A,8487,SønderjyskE
+752,3847531,2022-05-15 11:00:00,Morten Krogh,fouls_for,12,A,8595,Brøndby IF
+753,3847531,2022-05-15 11:00:00,Morten Krogh,fouls_ag,12,A,8595,Brøndby IF
+754,3847532,2022-05-16 12:00:00,Michael Tykgaard,fouls_for,4,A,8113,Midtjylland
+755,3847532,2022-05-16 12:00:00,Michael Tykgaard,fouls_ag,3,A,8113,Midtjylland
+756,3847544,2022-05-15 13:00:00,Peter Kjaersgaard,fouls_for,5,A,8071,AGF Aarhus
+757,3847544,2022-05-15 13:00:00,Peter Kjaersgaard,fouls_ag,14,A,8071,AGF Aarhus
+758,3847533,2022-05-22 10:00:00,Mikkel Redder,fouls_for,8,A,8470,Aalborg BK
+759,3847533,2022-05-22 10:00:00,Mikkel Redder,fouls_ag,4,A,8470,Aalborg BK
+760,3847547,2022-05-21 10:00:00,Jens Grabski Maae,fouls_for,7,A,9939,Viborg
+761,3847547,2022-05-21 10:00:00,Jens Grabski Maae,fouls_ag,5,A,9939,Viborg
+762,3847534,2022-05-22 10:00:00,Jakob Kehlet,fouls_for,13,A,8410,Randers FC
+763,3847534,2022-05-22 10:00:00,Jakob Kehlet,fouls_ag,5,A,8410,Randers FC
+764,3847546,2022-05-21 10:05:00,Mads-Kristoffer Kristoffersen,fouls_for,4,A,8414,Odense
+765,3847546,2022-05-21 10:05:00,Mads-Kristoffer Kristoffersen,fouls_ag,12,A,8414,Odense
+766,3880957,2022-05-29 11:30:00,Jakob Kehlet,fouls_for,7,A,9939,Viborg
+767,3880957,2022-05-29 11:30:00,Jakob Kehlet,fouls_ag,15,A,9939,Viborg
+768,3847535,2022-05-22 10:05:00,Anders Poulsen,fouls_for,3,A,8415,Silkeborg
+769,3847535,2022-05-22 10:05:00,Anders Poulsen,fouls_ag,2,A,8415,Silkeborg
+770,3847545,2022-05-21 10:05:00,Jakob A. Sundberg,fouls_for,8,A,10202,Nordsjælland
+771,3847545,2022-05-21 10:05:00,Jakob A. Sundberg,fouls_ag,13,A,10202,Nordsjælland
